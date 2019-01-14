@@ -62,8 +62,6 @@
         <item>Landline</item>
         <item>Broadband</item>
     </array>
-
-
     <array name="hintArray">
         <item>Enter phone number</item>
         <!-- <item>Bus \n Booking</item>
